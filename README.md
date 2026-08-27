@@ -27,7 +27,6 @@ O algoritmo genético realiza as seguintes etapas:
 - `berlin52.txt`: coordenadas da instância Berlin52.
 - `forca_bruta.py`: implementação de referência para busca exaustiva de uma rota TSP.
 - `resultado_genetico.txt`: resultados registrados nos testes do algoritmo genético.
-- `AlgoritmosGenéticos.pdf`: material complementar local, não versionado neste repositório.
 
 ## Como executar
 
