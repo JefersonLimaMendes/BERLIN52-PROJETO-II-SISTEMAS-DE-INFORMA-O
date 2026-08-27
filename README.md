@@ -46,7 +46,3 @@ Os novos resultados serão acrescentados ao arquivo `resultado_genetico.txt`.
 - Algoritmos genéticos
 - Problema do caixeiro-viajante (TSP)
 - Distância euclidiana
-
-## Repositório
-
-[GitHub - BERLIN52-PROJETO-II-SISTEMAS-DE-INFORMA-O](https://github.com/JefersonLimaMendes/BERLIN52-PROJETO-II-SISTEMAS-DE-INFORMA-O)
